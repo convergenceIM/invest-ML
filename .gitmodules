@@ -1,0 +1,6 @@
+[submodule "plugins/ipynb"]
+	path = plugins/ipynb
+	url = git://github.com/convergenceIM/invest-ML.git
+[submodule "plugin/ipynb"]
+	path = plugin/ipynb
+	url = git://github.com/danielfrg/pelican-ipynb.git
